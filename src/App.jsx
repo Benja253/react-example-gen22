@@ -20,7 +20,7 @@ function App() {
   }
 
   return (
-    <div style={{ backgroundColor: colorRandom }} className="App">
+    <div style={{ backgroundColor: colorRandom }} className="App repo">
       <QuoteBox 
         quoteRandom={quoteRandom} 
         handleClick={handleClick}
